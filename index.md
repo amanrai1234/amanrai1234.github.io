@@ -18,6 +18,14 @@ GPU-based matrix multiplication (matmul) is a critical operation in various comp
 
 my performance evaluation of Matmul on GPU/CPU using pthreads, CUDA, OpenMP, MPI.
 
+![image](https://github.com/amanrai1234/amanrai1234.github.io/assets/37281887/816bf206-8617-4208-894d-7ad7bc728d7d)
 
+The chart above visually represents the performance comparison of matrix multiplication across different methods and data types. It compares GPU, Sequential (SEQ), and OPENMP implementations for both float and double data types across various matrix sizes.
 
+Key Observations:
+
+GPU Performance: The GPU shows consistent and efficient performance, especially as the matrix size increases. For larger matrices, the GPU significantly outperforms other methods, highlighting its capability for high-level parallelism.
+Sequential and OPENMP: These methods are more efficient for smaller matrices but become increasingly slower as matrix size grows, especially evident in the SEQ implementation.
+Float vs. Double Precision: The use of float generally results in faster computations than double precision across all methods. However, the choice between float and double depends on the required precision of the calculations.
+The chart clearly illustrates that for tasks requiring high parallelism, especially with larger matrices, GPU-based computation offers a significant advantage in terms of speed. This makes it a preferable choice for complex computations in fields like deep learning and scientific simulations.
 
