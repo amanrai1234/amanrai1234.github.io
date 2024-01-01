@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to Our GPU and CPU Programming Project
+# Welcome to Our GPU and CPU Programming Project 
 
 This is an innovative platform dedicated to advancing GPU and CPU programming, parallelization, and deep/machine learning. Designed to harness the power of modern computing hardware, it serves developers, data scientists, and researchers looking to optimize performance and efficiency in their computational tasks.
 
