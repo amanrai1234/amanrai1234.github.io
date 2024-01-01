@@ -13,6 +13,13 @@ Our project, named Gaussian Elimination, is built using cutting-edge technologie
 ## Getting Started
 
 To get started with [Project Name], follow these steps:
+
+
+
+![DALL·E 2024-01-01 09 37 40 - An image of a modern GPU (Graphics Processing Unit) commonly used in computing and gaming  The GPU is depicted as a detailed, close-up view, showing i](https://github.com/amanrai1234/amanrai1234.github.io/assets/37281887/3913ec95-52c2-49d8-b42e-cbd8c00fb748)
+
+
+
 1. [Step 1: For example, 'Install the necessary software and libraries']
 2. [Step 2: E.g., 'Clone the repository from GitHub']
 3. [Step 3: E.g., 'Follow the setup instructions to configure your environment']
