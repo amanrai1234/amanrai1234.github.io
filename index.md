@@ -6,15 +6,14 @@ layout: default
 
 This is my porfolio. It has my projects and my work. 
 
-## GPU-MATMUL
-
-GPU-based matrix multiplication (matmul) is a critical operation in various computational fields, especially in deep learning and scientific computing. GPUs are highly efficient at handling parallel tasks, making them ideal for matrix multiplication, which involves multiple simultaneous arithmetic operations. This parallel processing capability allows for significantly faster computation compared to traditional CPUs, leading to quicker data processing and reduced execution times. Utilizing GPU for matrix multiplication is essential in applications that demand high-speed calculations and real-time data processing, such as neural network training, simulations, and large-scale data analysis.
-
 ## Getting Started
-
 
 ![image](https://github.com/amanrai1234/amanrai1234.github.io/assets/37281887/58f8fb43-0f66-4b8e-bba2-e4a9fbab5d99)
 
+
+## GPU-MATMUL
+
+GPU-based matrix multiplication (matmul) is a critical operation in various computational fields, especially in deep learning and scientific computing. GPUs are highly efficient at handling parallel tasks, making them ideal for matrix multiplication, which involves multiple simultaneous arithmetic operations. This parallel processing capability allows for significantly faster computation compared to traditional CPUs, leading to quicker data processing and reduced execution times. Utilizing GPU for matrix multiplication is essential in applications that demand high-speed calculations and real-time data processing, such as neural network training, simulations, and large-scale data analysis.
 
 
 my performance evaluation of Matmul on GPU/CPU using pthreads, CUDA, OpenMP, MPI.
