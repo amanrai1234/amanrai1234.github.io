@@ -1,1 +1,1 @@
-# amanrai1234.github.io
+theme: jekyll-theme-Slate
